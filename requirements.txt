@@ -6,3 +6,7 @@ langchain[google-genai]
 langgraph
 beautifulsoup4
 python-dotenv
+faiss-cpu
+numpy
+boto3
+aws-cli
